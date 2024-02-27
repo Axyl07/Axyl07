@@ -27,6 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Axyl07/Axyl07/output/snake.svg" alt="Snake animation" />
+
 
 ###
