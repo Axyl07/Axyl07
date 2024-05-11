@@ -40,12 +40,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Axyl07/Axyl07/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAC/coding-anime.gif"  />
-</div>
+
 
 ###
