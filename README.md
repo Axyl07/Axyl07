@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aryan and I'm Learning Computer Science and Web Development</h2>
+<h2 align="left">Hi 👋! I'm Axyl and I'm Learning Computer Science and Web Development</h2>
 
 ###
 
